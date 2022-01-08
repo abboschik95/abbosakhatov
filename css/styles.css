@@ -1,0 +1,148 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+p {
+  line-height: 2;
+}
+
+hr {
+  width: 5%;
+  border-style: dotted none none;
+  border-width: 10px;
+  border-color: #A7D8D8;
+  margin: 100px auto;
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #35858B;
+  margin: 50px, auto, 0, auto;
+  line-height: 2;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  color: #35858B;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #35858B;
+}
+
+a {
+  font-family: 'Montserrat', sans-serif;
+  color: #35858B;
+}
+
+.contact-message{
+  width: 30%;
+  margin: 40px auto 60px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.profile {
+  margin-bottom: 100px;
+}
+
+.skill-row1 {
+  width: 50%;
+  margin: 100px auto 200px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.skill-row2 {
+  width: 50%;
+  margin: 200px auto 200px auto;
+  text-align: left;
+}
+
+.skill {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skill2 {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+
+
+.bottom-container {
+  background-color: #95D1CC;
+}
+
+.footer-link {
+  display: inline-block;
+  text-decoration: none;
+  margin: 50px auto 50px auto;
+  padding: 10px;
+}
+
+.btn {
+  text-decoration: none;
+  color: #ffff;
+  display: inline-block;
+  margin: 50px auto 50px auto;
+  background-color: #95D1CC;
+  padding: 20px;
+  border-style: none;
+  border-radius: 8px;
+}
+
+.btn:hover {
+  background-color: #35858B;
+}
+
+.author {
+  font-size: 0.75rem;
+  display: inline-block;
+  margin: 20px auto 20px auto;
+  color: #EAF6F6;
+}
+
+.footer-link:hover {
+  color: #EAF6F6;
+}
+
+.contact-me {
+  margin: 100px auto 0 auto;
+}
+
+.top {
+  background-color: #95D1CC;
+  position: relative;
+  padding-top: 100px;
+}
